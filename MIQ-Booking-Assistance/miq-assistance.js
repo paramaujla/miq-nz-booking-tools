@@ -2,9 +2,9 @@
 
 // CHANGE MONTH NUMBER TO DESIRED MONTH
 // january = 1, february = 2, march = 3, april = 4, may = 5, june = 6, july = 7, august = 8, september = 9, october = 10, november = 11, december = 12
-let month = 11;
+let month = 9;
 let accessibilityRequirement = false; // change to "true" if you have accessibility requirement
-let roomType = 'twin'; // double or twin
+let roomType = 'double'; // double or twin
 
 // --------------
 // OPTIONAL: PREFILL LOGIN
@@ -14,8 +14,8 @@ let roomType = 'twin'; // double or twin
 const step = "login-done"; // options: "login", "login-done"
 
 // edit the variables below to suit your requirements
-const email = 'YOUR_EMAIL_ADDRESS';
-const password = 'YOUR_PASSWORD';
+const email = 'paramjitaujla18@yahoo.com';
+const password = 'Amanparam2020';
 
 // --------------
 // OPTIONAL: How many seconds to refresh the page. 
